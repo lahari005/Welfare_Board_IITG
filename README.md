@@ -1,1 +1,2 @@
-# Welfare_Board_IITG
+# WelfareBoard
+A static website developed for welfare board of IITG
